@@ -1,0 +1,6 @@
+{
+  "name": "Alex Vance — Systems & Creative Graphics Portfolio",
+  "description": "Live 3D scroll-driven engineering portfolio showcasing systems architecture, WebGL shaders, and full-stack craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
